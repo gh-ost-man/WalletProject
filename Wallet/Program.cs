@@ -15,7 +15,7 @@ namespace Wallet
             Console.WriteLine("Aloha");
             CreditCard creditCard = new CreditCard();            
             Money money = new Money();
-            
+            Console.WriteLine("Test");
         }
     }
 }
