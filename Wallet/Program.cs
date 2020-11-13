@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MoneyLib;
 using CreditCardLib;
 
 namespace Wallet
@@ -13,6 +14,8 @@ namespace Wallet
         {
             Console.WriteLine("Aloha");
             CreditCard creditCard = new CreditCard();            
+            Money money = new Money();
+            
         }
     }
 }
