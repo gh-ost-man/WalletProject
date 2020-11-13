@@ -19,6 +19,11 @@ namespace Wallet
             CreditCard creditCard = new CreditCard();            
             Money money = new Money();
             Console.WriteLine("Test");
+
+            Console.WriteLine(new string('-',50));
+            Console.WriteLine(bc);
+            Console.WriteLine(new string('-', 50));
+
         }
     }
 }
