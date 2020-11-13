@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BusinessCardLib">
-      <HintPath>..\BusinessCardLib\bin\Debug\BusinessCardLib.dll</HintPath>
+      <HintPath>..\BusinessCardLib\obj\Debug\BusinessCardLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
