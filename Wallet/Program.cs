@@ -24,6 +24,10 @@ namespace Wallet
             Console.WriteLine(bc);
             Console.WriteLine(new string('-', 50));
 
+            Console.WriteLine(new string('-', 50));
+            Console.WriteLine(creditCard);
+            Console.WriteLine(new string('-', 50));
+
 
         }
     }
