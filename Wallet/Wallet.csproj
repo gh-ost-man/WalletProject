@@ -57,6 +57,10 @@
       <Project>{6c09b113-af6e-4d13-bd2f-2fd4cfbb9a44}</Project>
       <Name>CreditCardLib</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MoneyLib\MoneyLib.csproj">
+      <Project>{72cff887-88bb-4280-9e85-20393e16a81f}</Project>
+      <Name>MoneyLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
